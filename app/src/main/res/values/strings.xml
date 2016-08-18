@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceFusionDemo</string>
+
+    <string name="action_setting">Setting</string>
+</resources>

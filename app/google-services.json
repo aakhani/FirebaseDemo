@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "836805871561",
+    "firebase_url": "https://servicefusiondemo-29553.firebaseio.com",
+    "project_id": "servicefusiondemo-29553",
+    "storage_bucket": "servicefusiondemo-29553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836805871561:android:bf47f02541cc5f6b",
+        "android_client_info": {
+          "package_name": "com.servicefusiondemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836805871561-30n6a26o2h70he9vbcp4nu13au23amun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVi2qklHSItnl5fTEKJH6Kre-QFnWRm50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
